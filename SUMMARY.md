@@ -9,15 +9,17 @@
   * [NFT Market Potential](introduction/nft-market-potential/nft-market-potential.md)
   * [NFT Technology Explained](introduction/nft-market-potential/nft-technology-explained.md)
 
+## DRA TOKEN - $DRA
+
+* [Tokenomics](dra-token-usddra/tokenomics.md)
+
 ## PRODUCTS
 
 * [Step Dragonic Game](products/step-dragonic-game/README.md)
   * [Introduction](products/step-dragonic-game/introduction.md)
-  * [Game Plot](products/step-dragonic-game/game-plot.md)
-  * [Key Features](products/step-dragonic-game/key-features.md)
-  * [Game Art](products/step-dragonic-game/game-art/README.md)
-    * [Dragon](products/step-dragonic-game/game-art/dragon.md)
-    * [Zoombie](products/step-dragonic-game/game-art/zoombie.md)
+  * [Dragonic World](products/step-dragonic-game/game-plot.md)
+  * [How to own a dragon warrior](products/step-dragonic-game/key-features.md)
+  * [How to play the game](products/step-dragonic-game/how-to-play-the-game.md)
 * [NFT Marketplace](products/nft-marketplace.md)
 * [Collectibles](products/collectibles.md)
 
