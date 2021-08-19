@@ -1,10 +1,10 @@
 # Dragonic World
 
-
-
 ### Dragon
 
 #### Amphiteric
+
+Rarity: D
 
 Amphiteric usually live on the coast, in the sea, swamps. They are quite docile if not threatened by attack from other species. 
 
@@ -16,6 +16,8 @@ Basic stats:
 
 #### Wyrmic
 
+Rarity: C
+
 Ranked above Amphiteric is Wyrmic. Unlike Amphiteric, Wyrmic is commonly found in tropical, volcanic regions.
 
 Basic stats:
@@ -25,6 +27,8 @@ Basic stats:
 | 237 - 365 | 247 - 296 | 14 - 16 | 9 - 15 |
 
 #### Salamanderic
+
+Rarity: B
 
 Salamanderic are known as "Flash" in Dragonic because their strength is speed. They usually live in cliffs, high mountain peaks.
 
@@ -36,6 +40,8 @@ Basic stats:
 
 #### Hydric
 
+Rarity: A
+
 Hydric prefers to live in wet, old groves. They are quite aggressive, able to attack any species if they feel threatened.
 
 Basic stats:
@@ -45,6 +51,8 @@ Basic stats:
 | 399 - 496 | 403 - 499 | 29 - 38 | 28 - 35 |
 
 #### Drakic
+
+Rarity: S
 
 Dubbed "the nomad". They don't like to stay in one place, Drakic can be found anywhere. This is one of the most dangerous types of dragons in the Dragonic world. Drakic will attack any species in their sight.
 
@@ -56,6 +64,8 @@ Basic stats:
 
 #### Wyvernic 
 
+Rarity: SS
+
 If you ask which is the most powerful dragon in the Dragonic world, it is definitely Wyvernic. Extremely ferocious and powerful, bad luck for those who face them.
 
 Basic stats:
@@ -63,6 +73,8 @@ Basic stats:
 | HP | MP | DEF | ATK |
 | :--- | :--- | :--- | :--- |
 | 550 - 660 | 578 - 656 | 47 - 53 | 48 - 56 |
+
+![](../../.gitbook/assets/screen-shot-2021-08-19-at-22.16.06.png)
 
 ### Zombic
 
@@ -89,4 +101,6 @@ Characteristics: This strain participates in all squads, but it's bad at fightin
 #### Zombic Clever 
 
 Characteristics: This strain is very intelligent, but prone to mistakes. If you take advantage of the opportunity, you will win.
+
+![](../../.gitbook/assets/screen-shot-2021-08-19-at-22.17.39.png)
 
